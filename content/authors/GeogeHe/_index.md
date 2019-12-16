@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Yao Zhang (张耀)
+name: Geoge He (贺志强)
 
 # Username (this should match the folder name)
 authors:
