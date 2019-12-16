@@ -1,21 +1,21 @@
 ---
 # Display name
-name: Qichuan Yang (杨奇川)
+name: George He (贺志强)
 
 # Username (this should match the folder name)
 authors:
-- Qichuan Yang
+- GeorgeHe
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Ph.D.
+role: Senior Vice President of Lenovo Group
 
 # Organizations/Affiliations
-# organizations:
-# - name: Institute of Computing Technology, Chinese Academy of Sciences
-#   url: ""
+organizations:
+- name: Lenovo Group
+  url: ""
 
 # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -61,11 +61,11 @@ role: Ph.D.
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-# email: ""
+email: ""
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Alumni
+- Professors
 ---
 

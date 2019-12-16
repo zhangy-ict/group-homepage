@@ -1,21 +1,21 @@
 ---
 # Display name
-name: Feng Hou (侯峰)
+name: Jianyu Zhao (赵建宇)
 
 # Username (this should match the folder name)
 authors:
-- FengHou
+- Jianyu Zhao
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Ph.D. candidate of Grade 2019
+role: Master
 
-# Organizations/Affiliations
-# organizations:
-# - name: Institute of Computing Technology, Chinese Academy of Sciences
-#   url: ""
+Organizations/Affiliations
+organizations:
+- name: Institute of Computing Technology, Chinese Academy of Sciences
+  url: ""
 
 # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -66,6 +66,6 @@ role: Ph.D. candidate of Grade 2019
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Ph.D. Candidate
+- Alumni
 ---
 

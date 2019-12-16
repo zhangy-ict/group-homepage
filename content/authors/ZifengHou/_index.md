@@ -1,21 +1,21 @@
 ---
 # Display name
-name: Feng Hou (侯峰)
+name: Zifeng Hou (侯紫峰)
 
 # Username (this should match the folder name)
 authors:
-- FengHou
+- ZifengHou
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Ph.D. candidate of Grade 2019
+role: Professor
 
-# Organizations/Affiliations
-# organizations:
-# - name: Institute of Computing Technology, Chinese Academy of Sciences
-#   url: ""
+Organizations/Affiliations
+organizations:
+- name: Institute of Computing Technology, Chinese Academy of Sciences
+  url: ""
 
 # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.

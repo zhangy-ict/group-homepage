@@ -1,16 +1,16 @@
 ---
 # Display name
-name: Feng Hou (侯峰)
+name: Yang Zhang (张杨)
 
 # Username (this should match the folder name)
 authors:
-- FengHou
+- YangZhang
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Ph.D. candidate of Grade 2019
+role: Senior Researcher of Lenovo Research
 
 # Organizations/Affiliations
 # organizations:
@@ -66,6 +66,6 @@ role: Ph.D. candidate of Grade 2019
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Ph.D. Candidate
+- Mentors
 ---
 
