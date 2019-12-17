@@ -1,16 +1,16 @@
 ---
 # Display name
-name: Ruiyi Li (李睿易)
+name: Feng Wang (王枫)
 
 # Username (this should match the folder name)
 authors:
-- RuiyiLi
+- FengWang
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Master student since 2017, working as an intern @ AI Lab, Lenovo Research
+role: Master student since 2017, working as an intern @ Megvii
 
 # Organizations/Affiliations
 organizations:
@@ -20,10 +20,10 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
-interests:
-- Explainable AI
-- Computer Vision
-- Data Mining
+# interests:
+# - Explainable AI
+# - Computer Vision
+# - Data Mining
 
 # education:
 #   courses:

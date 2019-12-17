@@ -1,16 +1,16 @@
 ---
 # Display name
-name: Ruiyi Li (李睿易)
+name: Lanning Wei (卫岚宁)
 
 # Username (this should match the folder name)
 authors:
-- RuiyiLi
+- LanningWei
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Master student since 2017, working as an intern @ AI Lab, Lenovo Research
+role: Ph.D. student since 2018, working as an intern @ 4paradigm
 
 # Organizations/Affiliations
 organizations:
@@ -21,9 +21,9 @@ organizations:
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Explainable AI
-- Computer Vision
-- Data Mining
+- Medical Image Analysis
+- Semantic Segmentation
+- Deep Learning
 
 # education:
 #   courses:
@@ -66,6 +66,6 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Master Students
+- Ph.D. Students
 ---
 
