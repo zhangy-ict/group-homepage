@@ -1,20 +1,20 @@
 ---
 # Display name
-name: George He (贺志强)
+name: Zifeng Hou (侯紫峰)
 
 # Username (this should match the folder name)
 authors:
-- GeorgeHe
+- ZifengHou
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Senior Vice President of Lenovo Group
+role: 
 
 # Organizations/Affiliations
 organizations:
-- name: Lenovo Group
+- name: 
   url: ""
 
 # Short bio (displayed in user profile at end of posts)

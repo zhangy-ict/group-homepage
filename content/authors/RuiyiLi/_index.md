@@ -1,20 +1,20 @@
 ---
 # Display name
-name: George He (贺志强)
+name: Ruiyi Li (李睿易)
 
 # Username (this should match the folder name)
 authors:
-- GeorgeHe
+- RuiyiLi
 
 # Is this the primary user of the site?
-superuser: false
+superuser: true
 
 # Role/position
-role: Senior Vice President of Lenovo Group
+role: Master student since 2017, working as an intern @ AI Lab, Lenovo Research
 
 # Organizations/Affiliations
 organizations:
-- name: Lenovo Group
+- name: Institute of Computing Technology, Chinese Academy of Sciences
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -66,6 +66,6 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Professors
+- Master Students
 ---
 
