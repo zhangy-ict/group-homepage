@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Ph.D. candiate of Grade 2015
+role: Ph.D. student since 2015, working as an intern @ AI Lab, Lenovo Research
 
 # Organizations/Affiliations
 organizations:
@@ -19,11 +19,11 @@ organizations:
 
 # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
-# 
-# interests:
-# - Artificial Intelligence
-# - Computational Linguistics
-# - Information Retrieval
+
+interests:
+- Medical Image Analysis
+- Semantic Segmentation
+- Deep Learning
 
 # education:
 #   courses:
