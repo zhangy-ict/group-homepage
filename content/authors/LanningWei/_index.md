@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Lanning Wei (卫岚宁)
+name: Lanning Wei \ (卫岚宁)
 
 # Username (this should match the folder name)
 authors:
