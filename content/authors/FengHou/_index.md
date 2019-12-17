@@ -21,9 +21,9 @@ organizations:
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Explainable AI
+- Medical Image Analysis
+- Object Detection
 - Computer Vision
-- Data Mining
 
 # education:
 #   courses:
