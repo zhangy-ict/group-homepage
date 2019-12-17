@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Ph.D. student since 2016, working @ Lenovo Research
+role: Ph.D. since 2016, working @ Lenovo Research
 
 # Organizations/Affiliations
 organizations:
