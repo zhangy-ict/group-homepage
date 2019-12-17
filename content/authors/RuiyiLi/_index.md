@@ -20,10 +20,10 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
-# interests:
-# - Medical Image Analysis
-# - Semantic Segmentation
-# - Deep Learning
+interests:
+- Explainable Artificial Intelligence
+- Computer Vision
+- Deep Learning
 
 # education:
 #   courses:
