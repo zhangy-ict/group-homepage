@@ -1,16 +1,16 @@
 ---
 # Display name
-name: Ruiyi Li (李睿易)
+name: Yujie Hu (胡宇杰)
 
 # Username (this should match the folder name)
 authors:
-- RuiyiLi
+- YujieHu
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Master student since 2017, working as an intern @ AI Lab, Lenovo Research
+role: Master student since 2016, working as an intern @ AI Lab, Lenovo Research
 
 # Organizations/Affiliations
 organizations:
