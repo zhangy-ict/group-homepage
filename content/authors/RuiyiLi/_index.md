@@ -23,7 +23,7 @@ organizations:
 interests:
 - Explainable Artificial Intelligence
 - Computer Vision
-- Deep Learning
+- Data Mining
 
 # education:
 #   courses:
