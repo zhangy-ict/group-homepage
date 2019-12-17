@@ -1,16 +1,16 @@
 ---
 # Display name
-name: Lanning Wei (卫岚宁)
+name: Yang Liu (刘洋)
 
 # Username (this should match the folder name)
 authors:
-- LanningWei
+- YangLiu
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Ph.D. student since 2018, working as an intern @ 4paradigm
+role: Ph.D. student since 2020, working as an intern @ AI Lab, Lenovo Research
 
 # Organizations/Affiliations
 organizations:
@@ -20,10 +20,10 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
-interests:
-- Medical Image Analysis
-- Semantic Segmentation
-- Deep Learning
+# interests:
+# - Medical Image Analysis
+# - Semantic Segmentation
+# - Deep Learning
 
 # education:
 #   courses:
