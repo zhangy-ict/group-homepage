@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Master since 2013, working @ AI Lab, Lenovo Research
+role: Master since 2016, working @ AI Lab, Lenovo Research
 
 # Organizations/Affiliations
 organizations:
@@ -20,10 +20,9 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
-# interests:
-# - Medical Image Analysis
-# - Semantic Segmentation
-# - Deep Learning
+interests:
+- Big Data
+- Natural Language Understaning
 
 # education:
 #   courses:
