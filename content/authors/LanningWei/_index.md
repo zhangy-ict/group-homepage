@@ -21,8 +21,7 @@ organizations:
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Medical Image Analysis
-- Semantic Segmentation
+- AutoML
 - Deep Learning
 
 # education:
