@@ -21,7 +21,8 @@ organizations:
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- 告诉你，强哥是真的强
+- 告诉你，强哥才是真的强
+# - Natural Language Processing
 
 # education:
 #   courses:
