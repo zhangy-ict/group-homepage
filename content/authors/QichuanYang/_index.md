@@ -21,7 +21,9 @@ organizations:
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Social King
+- Natural Language Processing
+- Dialogue Generation
+- Artificial Intelligence
 
 # education:
 #   courses:
