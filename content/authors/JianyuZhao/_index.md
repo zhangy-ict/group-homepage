@@ -21,7 +21,7 @@ organizations:
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-我中科院周柏豪不服
+- 我中科院周柏豪，不服！
 # - Natural Language Processing
 # - Deep Learning
 # - Reinforcement Learning
