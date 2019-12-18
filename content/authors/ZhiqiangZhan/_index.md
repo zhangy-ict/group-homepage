@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Ph.D. student since 2013, working as an intern @ AI Lab, Lenovo Research
+role: Ph.D. candidate since 2013, working as an intern @ AI Lab, Lenovo Research
 
 # Organizations/Affiliations
 organizations:
@@ -64,6 +64,6 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Ph.D. Students
+- Ph.D. Candidates
 ---
 

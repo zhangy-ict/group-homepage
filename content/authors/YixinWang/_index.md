@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Master student since 2019, working as an intern @ AI Lab, Lenovo Research
+role: Master candidate since 2019, working as an intern @ AI Lab, Lenovo Research
 
 # Organizations/Affiliations
 organizations:
@@ -66,6 +66,6 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Master Students
+- Master Candidates
 ---
 

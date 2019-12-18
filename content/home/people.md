@@ -16,8 +16,8 @@ subtitle = "Welcome to the Big Family"
   user_groups = ["Professors",
                  "Mentors",
                  "Administration",
-                 "Ph.D. Students",
-                 "Master Students",
+                 "Ph.D. Candidates",
+                 "Master Candidates",
                  "Alumni"]
 
 [design]

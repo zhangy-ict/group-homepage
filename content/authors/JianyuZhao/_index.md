@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Master since 2018, working @ AI Lab, Lenovo Research
+role: Master graduate since 2018, working @ AI Lab, Lenovo Research
 
 # Organizations/Affiliations
 organizations:
