@@ -10,11 +10,11 @@ authors:
 superuser: false
 
 # Role/position
-role: Senior Vice President of Lenovo Group
+role: Doctoral Supervisor; Senior Vice President
 
 # Organizations/Affiliations
 organizations:
-- name: Lenovo Group
+- name: Institute of Computing Technology, Chinese Academy of Sciences; Beihang University; Lenovo Group
   url: ""
 
 # Short bio (displayed in user profile at end of posts)

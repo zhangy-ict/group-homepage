@@ -10,11 +10,11 @@ authors:
 superuser: false
 
 # Role/position
-role: 
+role: Doctoral Supervisor; Chief Researcher
 
 # Organizations/Affiliations
 organizations:
-- name: 
+- name: Institute of Computing Technology, Chinese Academy of Sciences; Lenovo Group
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
