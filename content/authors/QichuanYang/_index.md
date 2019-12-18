@@ -21,9 +21,7 @@ organizations:
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Natural Language Processing
-- Dialogue Generation
-- Artificial Intelligence
+- 爱我你怕了么
 
 # education:
 #   courses:
