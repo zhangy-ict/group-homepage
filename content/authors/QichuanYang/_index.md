@@ -21,7 +21,7 @@ organizations:
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- 爱我你怕了么
+- 在下北航吴彦祖，有何贵干？
 
 # education:
 #   courses:
