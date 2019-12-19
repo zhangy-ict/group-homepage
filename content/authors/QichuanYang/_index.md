@@ -21,10 +21,10 @@ organizations:
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- 在下北航吴彦祖，谁不服？
-# - Natural Language Processing
-# - Dialog Generation
-# - Artificial Intelligence
+# - 在下北航吴彦祖，谁不服？
+- Natural Language Processing
+- Dialog Generation
+- Artificial Intelligence
 
 # education:
 #   courses:
