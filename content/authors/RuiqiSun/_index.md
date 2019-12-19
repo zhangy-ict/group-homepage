@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Ph.D. graduate since 2016, working @ Lenovo Research
+role: Ph.D. graduate since 2016, working @ ECR, Lenovo Research
 
 # Organizations/Affiliations
 organizations:
@@ -20,10 +20,10 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
-# interests:
-# - Medical Image Analysis
-# - Semantic Segmentation
-# - Deep Learning
+interests:
+- Cloud Computing
+- Big Data
+- AIOps
 
 # education:
 #   courses:
