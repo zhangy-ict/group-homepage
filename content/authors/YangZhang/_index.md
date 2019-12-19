@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Senior Researcher @ Lenovo Research
+role: Advisory Researcher @ Smart Education Platform and Solution Development Spoken English, Lenovo Research
 
 # Organizations/Affiliations
 organizations:
