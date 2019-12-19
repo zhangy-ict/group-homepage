@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: 
+role: Strategic Alliance Lead @ Innovation Strategy & System, Lenovo Research
 
 # Organizations/Affiliations
 organizations:
